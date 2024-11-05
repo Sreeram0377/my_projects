@@ -1,3 +1,9 @@
 # Introduction
 The purpose of this report is to analyse customer order data to derive actionable insights that can help in optimizing operations, improving customer satisfaction, 
 and increasing business efficiency.
+## Order Level Analysis
+-	Morning: Orders placed between 5 am to 12 pm 
+-	Afternoon: Orders placed between 12 pm to 5 pm 
+-	Evening: Orders placed between 5 pm to 8 pm
+-	Night: Orders placed between 8 pm to 11 pm
+-	Late Night: Orders placed between 11 pm to 5 am
