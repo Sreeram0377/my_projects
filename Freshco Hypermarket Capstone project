@@ -1,9 +1,10 @@
-# Introduction
+# Freshco Hypermarket Capstone project
 The purpose of this report is to analyse customer order data to derive actionable insights that can help in optimizing operations, improving customer satisfaction, 
 and increasing business efficiency.
-## Order Level Analysis
--	Morning: Orders placed between 5 am to 12 pm 
--	Afternoon: Orders placed between 12 pm to 5 pm 
--	Evening: Orders placed between 5 pm to 8 pm
--	Night: Orders placed between 8 pm to 11 pm
--	Late Night: Orders placed between 11 pm to 5 am
+I conducted a throught analysis of Order Level Analysis, Completion Rate Analysis, 
+Customer Level Analysis and Delivery Analysis using Excel.
+This analysis gave us some really valuable insights into our performance trends and highlighted specific areas where we can improve. Based on these findings, I've developed tailored strategies to enhance our operational efficiency and boost customer satisfaction. These strategies focus on streamlining our order processes, optimizing delivery schedules, and ensuring that tasks are completed on time. By addressing these areas, we can reduce bottlenecks, improve delivery accuracy and speed, and ultimately provide a better experience for our customers. This data-driven approach will help us achieve higher levels of efficiency and build stronger customer loyalty.
+
+To access the solved excel sheet, [click here](https://docs.google.com/spreadsheets/d/1HTM6KEiu3vsGayEwkxM3lSO3KO6V1MW3/edit?gid=1605051417#gid=1605051417).
+
+
