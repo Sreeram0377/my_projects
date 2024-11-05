@@ -1,2 +1,2 @@
 # my_projects
-Data Analysis projects
+Data Analyst projects
