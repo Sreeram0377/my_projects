@@ -1,7 +1,7 @@
 # ShopNext PowerBI Dashboard Report
 ## Introduction:
 ShopNest stands as the leading department store in the e-commerce marketplaces in Portugal. Serving as a seamless link, it connects small businesses from various regions in Portugal to channels, streamlining the process with a single point of contact.
-We designed a comprehensive Power BI dashboard to address key business analytics for a retail dataset. We made a report of that dashboard with questions, visualizations and explanations.  
+I designed a comprehensive Power BI dashboard to address key business analytics for a retail dataset. I made a report of that dashboard with questions, visualizations and explanations.  
 
 ## Picture of the Dashboard
 ![image](https://github.com/user-attachments/assets/a49157bd-536c-4e7e-a403-12abb3fbe9dc)
